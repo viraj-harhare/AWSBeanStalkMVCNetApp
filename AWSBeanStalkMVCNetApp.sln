@@ -5,13 +5,13 @@ VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWSBeanStalkMVCNetApp", "AWSBeanStalkMVCNetApp\AWSBeanStalkMVCNetApp.csproj", "{0D583FF7-D740-4D08-8307-C4EB3D1A2996}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{225A1882-C039-4505-A20A-84FF9647E6D9}"
-	ProjectSection(SolutionItems) = preProject
-		C:\Users\DELL\Downloads\buildspec.yml = C:\Users\DELL\Downloads\buildspec.yml
-		C:\Users\DELL\Downloads\Procfile = C:\Users\DELL\Downloads\Procfile
-	EndProjectSection
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWSBeanStalkMVCNetApp.Tests", "AWSBeanStalkMVCNetApp.Tests\AWSBeanStalkMVCNetApp.Tests.csproj", "{05DF078B-EFD3-488C-9534-C0942F735799}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C021F21C-6B34-4F3C-9197-8400767F65DB}"
+	ProjectSection(SolutionItems) = preProject
+		Solution Items\buildspec.yml = Solution Items\buildspec.yml
+		Solution Items\Procfile = Solution Items\Procfile
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
